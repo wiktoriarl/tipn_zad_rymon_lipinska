@@ -61,6 +61,5 @@ ggplot(data = mpg) +
   geom_bar(mapping = aes(x = class, fill = class)) +
   labs(title = "Ilość samochodów w poszczególnych klasach", x = "Klasa", y = "Ilość")`
   
-
   
   
